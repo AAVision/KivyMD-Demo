@@ -1,0 +1,4 @@
+kivymd
+kivy
+plyer
+pillow
