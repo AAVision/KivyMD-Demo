@@ -27,7 +27,6 @@ ScreenManager:
 		pos_hint:{'center_x':0.5,'center_y':0.2}
 		on_press:root.manager.current='one'
 
-
 """
 
 class MenuScreen(Screen):
@@ -41,13 +40,11 @@ sm.add_widget(MenuScreen(name='one'))
 sm.add_widget(ProfileScreen(name='two'))
 #mode fo2 momkn tkoun free-end
 class Mover(MDApp):
-
 	def build(self):
 		self.theme_cls.primary_palette='Purple'
 		self.theme_cls.theme_style='Dark'
 		screen = Builder.load_string(screen_helper)
 		return screen
 
-	
 
 Mover().run()

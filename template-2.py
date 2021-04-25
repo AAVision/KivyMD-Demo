@@ -112,6 +112,7 @@ class temp2(MDApp):
             )
         bottom_sheet_menu.open()
 
+
     def show_alert_dialog(self):
         if not self.dialog:
             self.dialog = MDDialog(
