@@ -22,7 +22,11 @@ Table, like this one :
 First Header  | Second Header
 ------------- | -------------
 input-user.py | [Demo1](#Demo1)
-Content Cell  | Content Cell
+lists.py      | [Demo2](#Demo2)
+mover.py      | [Demo3](#Demo3)
+slide .py     | [Demo4](#Demo4)
+template-2.py | [Demo5](#Demo5)
+template.py   | [Demo6](#Demo6)
 
 ## Demo1
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/input-user.PNG?raw=true)
