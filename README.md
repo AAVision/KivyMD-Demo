@@ -6,11 +6,13 @@ KivyMD-Demo<a name="TOP"></a>
 
 ## What is KIVY ?##
 
-    Markup :  Kivy is a free and open source Python framework for developing mobile apps and other multitouch application software with a natural user interface. It is distributed under the terms of the MIT License, and can run on Android, iOS, Linux, macOS, and Windows
+    Kivy is a free and open source Python framework for developing mobile apps and other multitouch application software with a natural user interface.
+    It is distributed under the terms of the MIT License, and can run on Android, iOS, Linux, macOS, and Windows
 
 ### What is KIVYMD ? ###
 
-    Markup :  KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications. The project's goal is to approximate Google's Material Design spec as close as possible without sacrificing ease of use or application performance
+    KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications.
+    The project's goal is to approximate Google's Material Design spec as close as possible without sacrificing ease of use or application performance
 
 #### Heading 4 ####
 
