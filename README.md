@@ -24,4 +24,4 @@ First Header  | Second Header
 input-user.py | [Block Elements](#block-elements)
 Content Cell  | Content Cell
 
-#block-elements
+## Block Elements
