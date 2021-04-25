@@ -21,23 +21,23 @@ Table, like this one :
 
 First Header  | Second Header
 ------------- | -------------
-input-user.py | [Block Elements](#block-elements)
+input-user.py | [Demo1](#Demo1)
 Content Cell  | Content Cell
 
-## Block Elements
+## Demo1
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/input-user.PNG?raw=true)
 
-## 2
+## Demo2
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/lists.PNG?raw=true)
 
-## 3
+## Demo3
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/move.gif?raw=true)
 
-## 4
+## Demo4
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/slider.gif?raw=true)
 
-## 5
+## Demo5
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/temp2.PNG?raw=true)
 
-## 6
+## Demo6
 ![alt text](https://github.com/AAVision/KivyMD-Demo/blob/master/demo/template.PNG?raw=true)
