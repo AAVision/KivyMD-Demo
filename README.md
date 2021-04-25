@@ -4,7 +4,7 @@ KivyMD-Demo<a name="TOP"></a>
 - - - - 
 
 
-## What is KIVY ? ##
+### What is KIVY ? ###
 
     Kivy is a free and open source Python framework for developing mobile apps and other multitouch application software with a natural user interface.
     It is distributed under the terms of the MIT License, and can run on Android, iOS, Linux, macOS, and Windows
@@ -21,7 +21,7 @@ Table, like this one :
 
 First Header  | Second Header
 ------------- | -------------
-input-user.py | Demo<a name="TOP"></a>
+input-user.py | [Block Elements](#block-elements)
 Content Cell  | Content Cell
 
 
