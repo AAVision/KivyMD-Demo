@@ -4,8 +4,6 @@ from kivy.core.window import Window
 import subprocess
 import time
 
- 
-
 Window.size=(300,500)
 
 screen_helper="""
